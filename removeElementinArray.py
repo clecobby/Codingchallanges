@@ -9,5 +9,5 @@ class Solution:
     
 
     """ loog through to find a target value and remove all occurances
-    populate the nums .. if value not val.. 
+    populate the nums .. if value not val.. add up to indes or k value
     """
